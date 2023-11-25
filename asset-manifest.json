@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Syed1012/React_Admin_Dashboard/static/css/main.08ca7eda.css",
+    "main.js": "/Syed1012/React_Admin_Dashboard/static/js/main.4a7665f1.js",
+    "index.html": "/Syed1012/React_Admin_Dashboard/index.html",
+    "main.08ca7eda.css.map": "/Syed1012/React_Admin_Dashboard/static/css/main.08ca7eda.css.map",
+    "main.4a7665f1.js.map": "/Syed1012/React_Admin_Dashboard/static/js/main.4a7665f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08ca7eda.css",
+    "static/js/main.4a7665f1.js"
+  ]
+}
